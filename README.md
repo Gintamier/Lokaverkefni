@@ -1,5 +1,4 @@
-# NTV - Lokaverkefni
-## RPG - Recipies
+# NTV - Lokaverkefni\n RPG - Recipies
 
 Not sure what to cook today/tonight?
 
